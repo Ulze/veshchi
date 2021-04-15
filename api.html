@@ -9,7 +9,7 @@
 
 $productId    = 119745;   // id товара в системе
 $productPrice = 699;   // цена товара при создании заказа
-$thankUrl     = 'http://example.com/thankyoupage'; // урл вашей страницы спасибо
+$thankUrl     = 'https://ulze.github.io/veshchi/success/index.html'; // урл вашей страницы спасибо
 
 
 /**
